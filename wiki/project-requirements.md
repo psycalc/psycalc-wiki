@@ -1,3 +1,12 @@
+---
+title: Project Requirements
+type: reference
+tags: [project, requirements]
+created: 2026-04-14
+updated: 2026-04-15
+sources: []
+---
+
 # Cognitive Matchmaker project description
 
 ## What the project is

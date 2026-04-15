@@ -1,3 +1,12 @@
+---
+title: Plan
+type: concept
+tags: [product, technical, roadmap]
+created: 2026-04-14
+updated: 2026-04-15
+sources: [autoreasearch.md]
+---
+
 # Cognitive Matchmaker: Product and Technical Plan
 
 Below is the plan as it should be built in a real product, not as a beautiful idea in a prompt.
