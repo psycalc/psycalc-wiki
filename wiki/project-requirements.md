@@ -1,6 +1,6 @@
 ---
 title: Project Requirements
-type: reference
+type: concept
 tags: [project, requirements]
 created: 2026-04-14
 updated: 2026-04-15
